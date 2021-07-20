@@ -1,4 +1,4 @@
-![enter image description here](![grafik](https://user-images.githubusercontent.com/56673835/126396561-d983e34a-0b03-4a8a-ad4f-dd8398320005.png))
+![enter image description here](!https://cdn.discordapp.com/attachments/862342067190890519/867153108404404234/reflection1080a.png)
 
 # Welcome
 
