@@ -1,4 +1,2 @@
+## Sorted list on my github-pages site.
 
-
-## welcome
-some GMS, python and c++ things
