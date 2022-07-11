@@ -3,3 +3,4 @@
 balls
 sus counter:
 ![](https://komarev.com/ghpvc/?username=sam-k0)
+ I despise java
