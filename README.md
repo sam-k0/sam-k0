@@ -1,6 +1,5 @@
-## Sorted list on my github-pages site: https://sam-k0.github.io
 
-balls
-sus counter:
-![](https://komarev.com/ghpvc/?username=sam-k0)
- I despise java
+![](https://komarev.com/ghpvc/?username=sam-k0) <br>
+
+Master branch or bust. <br>
+Yeah I made a sussy sorting algorithm :trollface:
