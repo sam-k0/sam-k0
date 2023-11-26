@@ -1,6 +1,3 @@
 
 ![](https://komarev.com/ghpvc/?username=sam-k0) <br>
-
-Master branch or bust. <br>
-Yeah I made a sussy sorting algorithm :trollface: <br>
-[My Mods!](https://github.com/stars/sam-k0/lists/game-mods "My Mods")
+当两只猫咪穿过一片草地，它们遇到了一只会说话的乌龟。乌龟对它们说：“为什么橙子不喜欢参加派对？因为它总是被榨汁！”猫咪们抬头看了看彼此，然后一起笑了出来。
