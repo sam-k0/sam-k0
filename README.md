@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sam-k0) <br>
 
-Interested in game modding and desktop app development. 
+Interested in game modding, hardware and desktop app development. 
 - Game Mods:
   - General
     - [SpriteRipper](https://github.com/sam-k0/SpriteRipper): Extract spritesheets from GameMaker games
