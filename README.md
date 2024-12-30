@@ -26,4 +26,4 @@ Interested in game modding, hardware and desktop app development.
  
 
 
-Also I think photovoltaics and renewable energy are [interesting](https://github.com/samuel-koob/awesome-solar-forecasting)
+Also I think photovoltaics and renewable energy are [awesome](https://github.com/samuel-koob/awesome-solar-forecasting)
