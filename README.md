@@ -18,6 +18,8 @@ Interested in game modding, hardware and desktop app development.
     - [Extended Blacklist Fix](https://github.com/sam-k0/ExtendedBlacklist): Fixes issues related to extended blocklist
   - Lethal Company
     - [Highlights](https://github.com/sam-k0/LC_Highlights): Automatically clip your death using Nvidia GeForce Experience
+- Web Apps
+  - [Yatzy Scorecard](https://github.com/sam-k0/Yatzy-web): User assisting scorecard for the tabletop game yatzy
 - Hardware
   - [BlinkStick.NETCore](https://github.com/sam-k0/BlinkStick.NETCore): Cross-platform .NET Core package for BlinkStick LED strips
   - [ESP32C3 music player daemon GUI](https://github.com/sam-k0/ESP32C3-MPD-GUI): Shows information and control music player daemon on ESP
