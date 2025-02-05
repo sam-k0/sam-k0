@@ -25,7 +25,5 @@ Interested in game modding, hardware and desktop app development.
   - [ESP32C3 music player daemon GUI](https://github.com/sam-k0/ESP32C3-MPD-GUI): Shows information and control music player daemon on ESP
 - Tensorflow
   - [ROCm for tensorflow](https://github.com/sam-k0/Installing_ROCm_for_tensorflow): Guide how to install AMD ROCm on Linux
+  - [Image Sequence Forecasting for All-Sky Images](https://github.com/sam-k0/cloud-forecasting-cnn): ConvLSTM based CNN for short-term forecasting of cloud images
  
-
-
-Also I think photovoltaics and renewable energy are [awesome](https://github.com/samuel-koob/awesome-solar-forecasting)
