@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sam-k0) <br>
 
-# Game Modding, Hardware, and Desktop App Development
+Interested in Game Modding, Hardware, and Desktop App Development
 
 ## Game Mods
 
