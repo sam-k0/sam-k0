@@ -3,6 +3,11 @@
 
 Interested in Game Modding, Hardware, and Desktop App Development
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-k0&layout=compact&theme=dark)
+
+Check out my project overview below!
+<details>
+  
 ## Game Mods
 
 <details>
@@ -89,4 +94,5 @@ Interested in Game Modding, Hardware, and Desktop App Development
   
   - [Image Sequence Forecasting for All-Sky Images](https://github.com/sam-k0/cloud-forecasting-cnn): ConvLSTM based CNN for short-term forecasting of cloud images  
 
+</details>
 </details>
