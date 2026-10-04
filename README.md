@@ -1,3 +1,3 @@
+![Profile views](https://komarev.com/ghpvc/?username=sam-k0)
 
-![](https://komarev.com/ghpvc/?username=sam-k0) <br>
-
+Quack!
